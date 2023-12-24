@@ -29,7 +29,7 @@ transparent 13px);
   font-family:  'Courier new';
   text-align: center;
 }
-h1 {
+.nhapnhay {
     animation: blinker 3s  infinite;
   }
   
