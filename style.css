@@ -30,7 +30,7 @@ transparent 13px);
   text-align: center;
 }
 .nhapnhay {
-    animation: blinker 1s  infinite;
+    animation: blinker 2s step-start infinite;
   }
   
   @keyframes blinker {
