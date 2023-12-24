@@ -13,11 +13,10 @@ body {
 rgba(0, 0, 0, 0.8) 2px,
 rgba(0, 0, 0, 0.8) 13px,
 transparent 13px);
-
 }
 .nhapnhay {
   color: #fff6a9;
-  font-size: 3em;
+  font-size: 1em;
   text-shadow: 
     0 0 5px #ffa500, 
     0 0 15px #ffa500, 
