@@ -16,3 +16,25 @@ function makeSnow() {
 }
 
 setInterval(makeSnow, 40);
+.diary {
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.diary-entry {
+  min-height: 300px;
+  padding: 10px;
+  outline: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.diary-entry:focus {
+  border-color: #66afe9;
+}
